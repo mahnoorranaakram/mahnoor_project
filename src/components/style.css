@@ -1,0 +1,26 @@
+.App {
+    margin-top: 0px;
+    padding: 0px 0px 0px 0px;
+}
+* {
+    font-family: 'Poppins', sans-serif;
+}
+form {
+    width: 100%;
+}
+a {
+    color: #1875F0;
+    text-decoration: none;
+}
+.sidealert {
+    margin: 0px !important;
+    position: absolute !important;
+    right: 0;
+    max-height: 100vh !important;
+    height: 100vh !important;
+    top: 0;
+    box-shadow: none !important;
+    border-top-left-radius: 54px;
+    border-bottom-left-radius: 54px;
+    display: table !important;
+}
